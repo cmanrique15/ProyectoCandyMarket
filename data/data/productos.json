@@ -1,0 +1,82 @@
+[
+    {
+        "codigo": "BC001",
+        "nombre": "Crema Hidratante Facial",
+        "categoria": "Cuidado facial",
+        "precio": 45900,
+        "stock": 15,
+        "descripcion": "Crema para hidratar y cuidar la piel del rostro."
+    },
+    {
+        "codigo": "BC002",
+        "nombre": "Serum de Vitamina C",
+        "categoria": "Cuidado facial",
+        "precio": 59900,
+        "stock": 8,
+        "descripcion": "Producto para el cuidado diario de la piel."
+    },
+    {
+        "codigo": "BC003",
+        "nombre": "Agua Micelar",
+        "categoria": "Cuidado facial",
+        "precio": 32900,
+        "stock": 20,
+        "descripcion": "Ayuda a limpiar el rostro y retirar el maquillaje."
+    },
+    {
+        "codigo": "BC004",
+        "nombre": "Champú Hidratante",
+        "categoria": "Cuidado capilar",
+        "precio": 29900,
+        "stock": 25,
+        "descripcion": "Champú para la limpieza e hidratación del cabello."
+    },
+    {
+        "codigo": "BC005",
+        "nombre": "Mascarilla Capilar",
+        "categoria": "Cuidado capilar",
+        "precio": 42900,
+        "stock": 10,
+        "descripcion": "Tratamiento para ayudar a suavizar el cabello."
+    },
+    {
+        "codigo": "BC006",
+        "nombre": "Labial Mate",
+        "categoria": "Maquillaje",
+        "precio": 25900,
+        "stock": 30,
+        "descripcion": "Labial de acabado mate para uso diario."
+    },
+    {
+        "codigo": "BC007",
+        "nombre": "Pestañina Negra",
+        "categoria": "Maquillaje",
+        "precio": 34900,
+        "stock": 16,
+        "descripcion": "Producto de maquillaje para las pestañas."
+    },
+    {
+        "codigo": "BC008",
+        "nombre": "Perfume Floral",
+        "categoria": "Perfumería",
+        "precio": 119900,
+        "stock": 9,
+        "descripcion": "Fragancia con aroma floral."
+    },
+    {
+        "codigo": "BC009",
+        "nombre": "Crema Corporal",
+        "categoria": "Cuidado corporal",
+        "precio": 38900,
+        "stock": 22,
+        "descripcion": "Crema para hidratar la piel del cuerpo."
+    },
+    {
+        "codigo": "BC010",
+        "nombre": "Jabón Líquido",
+        "categoria": "Higiene personal",
+        "precio": 19900,
+        "stock": 0,
+        "descripcion": "Jabón líquido para la higiene diaria."
+    }
+]
